@@ -28,7 +28,7 @@
 .logo{
     margin: 1px;
     padding: 1px 8px 0px 6px;
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     height: 7vh;
     width: 11vw;
     background-size: cover;
@@ -167,7 +167,7 @@ span{
     display: flex;
     align-items: end;
     height: 380px;
-    background-image: url("/images/hero_image.jpg");
+    background-image: url("./images/hero_image.jpg");
     background-size: cover; 
 }
 
@@ -270,7 +270,7 @@ ul{
     border-top: 0.5px solid #464d4d;
 }
 .logo2{
-    background-image: url("/images/amazon_logo.png");
+    background-image: url("./images/amazon_logo.png");
     height: 50px;
     width: 90px;
     background-size: cover;
